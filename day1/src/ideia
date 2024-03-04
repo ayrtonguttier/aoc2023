@@ -1,0 +1,17 @@
+array com os valores possiveis
+
+'one', 'two', 'three'...'1', '2'...
+
+para cada item do array, procurar a posição do item na string;
+quando encontrar a menor é o primeiro
+quando encontrar a maior é o último
+
+
+int posUltimo
+int posPrimeiro
+
+str valorPrimeiro
+str valorUltimo
+
+ab3cone2threexyz
+ab3cone
